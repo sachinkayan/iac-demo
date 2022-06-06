@@ -19,10 +19,10 @@ version = "=1.6.0"
 }
 }
 
-provider"azuread" {
-  environment = "public"
-  tenant_id = "33440fc6-b7c7-412c-bb73-0e70b0198d5a"
-}
+#provider"azuread" {
+#  environment = "public"
+#  tenant_id = "33440fc6-b7c7-412c-bb73-0e70b0198d5a"
+#}
 
 
 provider"azurerm" {
